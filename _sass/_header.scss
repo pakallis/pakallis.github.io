@@ -1,0 +1,73 @@
+
+
+.fixed-banner {
+  background: linear-gradient(to top, $gray-1, #fff 5%);
+  max-width: $content-width;
+  position: fixed;
+  top: 0;
+  left: 4%;
+  right: 4%;
+  padding-bottom: 1rem;
+  margin-left:  auto;
+  margin-right: auto;
+  z-index: 2;
+  overflow:hidden;
+}
+
+
+.site-title {
+  font-size: 1.75rem;
+  letter-spacing: .1rem;
+  @include bp-large { padding-left: 1.25rem; }
+  margin-top: 0;
+  margin-bottom: 0;
+  color: $gray-4; 
+
+  a:hover, a:visited {
+    color: inherit;
+  }
+
+  small {
+    font-size: 75%;
+    font-weight: 400;
+    opacity: .5;
+    letter-spacing: 0;
+    vertical-align: middle;
+  }
+}
+
+.sign-up {
+  display: none;
+} 
+
+.sign-up, .site-title {
+  @include dim-effect(.3, 1);
+}
+
+
+// added to header on scroll 
+.scroll-nav {
+  transition: all 0.5s;
+  margin-top: 0;
+  padding-bottom: 0;
+  @include box-shadow(0 3px 5px -4px $gray-2);
+
+  .site-title {
+    float: left;
+    padding-top: .35rem; 
+    padding-bottom: .35rem;
+    padding-left: 10%;
+    font-size: 1.25rem; 
+    small { display: none; }
+  }
+
+  .sign-up {
+    display: block;
+    float: right;
+    color: $gray-4;
+    padding-top: .35rem; 
+    padding-bottom: .35rem;
+    padding-right: 10%;
+  }
+
+}

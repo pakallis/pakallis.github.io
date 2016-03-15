@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  {% include head.html %}
+
+  <body>
+
+    <div class="container content">
+
+      {% if page.header != 'none' %}
+          {% include header.html %}
+      {% else %}
+      {% endif %}
+
+      <main>
+        {{ content }}
+      </main>
+
+      {% if page.footer != 'none' %}
+          {% include footer.html %}
+      {% else %}
+      {% endif %}
+    </div>
+
+    {% include email-form.html %}
+  </body>
+
+  {% include scripts.html %}
+</html>

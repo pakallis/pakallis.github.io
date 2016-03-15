@@ -1,0 +1,9 @@
+<footer class="site-footer fade" id="footer">
+    <div class="mini-about">
+      <img src="{{site.author.avatar}}" alt="my photo" class="avatar">
+
+      {% capture mini-bio %}{% include content/footer-mini-about.md %}{% endcapture %}
+      {{ mini-bio | markdownify }} 
+  </div>
+</footer>
+

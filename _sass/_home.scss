@@ -1,0 +1,62 @@
+
+.home {
+  margin-top: -3rem; // fixed header not include in home page 
+  margin-bottom: 2rem;
+  padding-bottom: 2rem;
+
+}
+
+
+
+.mini-intro {
+  max-width: 100%;
+  padding-bottom: 4rem;
+
+  h1, p {
+    max-width: 75%;
+    float: left;
+  }
+
+  h1 { 
+    border-bottom: 1px dashed $border-color;
+    padding-bottom: .5rem;
+  }
+
+  p { 
+    padding-top: 1rem;
+    margin-bottom: 3rem;
+  }
+  
+  .avatar {
+    float: right;
+    max-width: 25%;
+    @include box-shadow(#fff, $fill-color);
+    @include border-radius(15%);
+    padding-left: .5rem;
+
+  }
+}
+
+
+.featured-posts {
+  display: block;
+
+  .post {
+    margin-bottom: -1.5rem;
+
+
+    a { 
+      color: #515151 !important;
+      &:visited { color: $visited-link-color !important; }
+    }
+  }
+
+  .see-archives  { 
+    color: $gray-2;
+    font-size: 1.25rem; 
+    text-decoration: underline;
+  }
+}
+
+
+

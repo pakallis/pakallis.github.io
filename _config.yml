@@ -1,0 +1,38 @@
+# Setup
+title:               Utterson
+tagline:             The Jekyll Companion
+url:                 http://alidcastano.com
+analytics_id:        ""
+
+# About/contact
+author:
+  name:                Alid Castano
+  email:               alidcastano@gmail.com
+  avatar:              img/avatar.jpg 
+  profile-pic:         img/profile-pic.jpg
+
+
+
+# Build settings
+markdown:            kramdown
+permalink:           /:title
+sass:
+  sass_dir:          _sass
+  style:            :compressed
+
+
+# Default settings
+defaults:
+  -
+    scope:
+      path: "" 
+      type: "posts" 
+    values:
+      layout: "post"
+      author: Alid Castano
+  -
+    scope:
+      path: "" 
+      type: "pages" 
+    values:
+      layout: "page"
