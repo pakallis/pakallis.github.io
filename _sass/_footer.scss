@@ -4,7 +4,7 @@
 
 
 .mini-about {
-  background: linear-gradient(to bottom, $gray-1, #fff 2%);
+  background: linear-gradient(to bottom, $gradient-color, #fff 2%);
   @include border-radius(5px);
   padding-left: 1rem;
   padding-right: 1rem;
@@ -18,7 +18,8 @@
     margin-right: .75rem;
     vertical-align: middle;
     @include border-radius(45%);
-    @include box-shadow(-1px 2px 2px $gray-4, 0 2px 5px $fill-color);
+    border: 3px solid $img-border-color;
+    @include box-shadow(-1px 0 5px 2px $img-shadow-color);
   }
 
   a:visited {

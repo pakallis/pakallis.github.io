@@ -3,7 +3,6 @@
   margin-top: -3rem; // fixed header not include in home page 
   margin-bottom: 2rem;
   padding-bottom: 2rem;
-  backround-image: url('/img/profile-pic.jpg');
 }
 
 
@@ -24,16 +23,16 @@
 
   p { 
     padding-top: 1rem;
+    padding-right: .25rem;
     margin-bottom: 3rem;
   }
   
   .avatar {
     float: right;
     max-width: 25%;
-    @include box-shadow(#fff, $fill-color);
+    border: 3px solid $img-border-color;
+    @include box-shadow(1px -1px 6px 1px $img-shadow-color);
     @include border-radius(15%);
-    padding-left: .5rem;
-
   }
 }
 

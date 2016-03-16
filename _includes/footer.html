@@ -1,3 +1,4 @@
+{% if page.footer != 'none' %}
 <footer class="site-footer fade" id="footer">
     <div class="mini-about">
       <img src="{{site.author.avatar}}" alt="my photo" class="avatar">
@@ -6,4 +7,4 @@
       {{ mini-bio | markdownify }} 
   </div>
 </footer>
-
+{% endif %}
