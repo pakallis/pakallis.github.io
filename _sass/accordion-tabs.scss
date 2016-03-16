@@ -1,6 +1,5 @@
 
-.accordion-tabs {
-      
+.accordion-tabs { 
   $action-color: #477dca !default;
   $tab-link-color: $gray-4;
   $tab-border: 1px dashed $border-color;
@@ -63,10 +62,11 @@
   .tab-content {
     display: none;
     width: 100%;
-    padding: 1rem .5rem;
+    padding-top: 1rem;
     border-top: $tab-border;
     float: left;
-
+    padding-bottom: 3rem;
+    
     h1 {
       @extend h2;
     }
