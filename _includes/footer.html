@@ -1,9 +1,18 @@
-<footer class="site-footer fade" id="footer">
-    <div class="mini-about">
-      <img src="{{site.author.avatar}}" alt="my photo" class="avatar">
+{% if page.footer != 'none' %}
+<footer class="site-footer fade-in" id="footer">
+  <p class="newsletter">Liked this post? <a href="#" id="trigger-form">
+  Join My Private Newsletter.</a></p>
 
-      {% capture mini-bio %}{% include content/footer-mini-about.md %}{% endcapture %}
-      {{ mini-bio | markdownify }} 
+  <div class="mini-about">
+    <img src="{{site.author.avatar}}" alt="my photo" class="avatar">
+
+    {% capture mini-bio %}{% include content/footer-mini-about.md %}{% endcapture %}
+    {{ mini-bio | markdownify }} 
   </div>
 </footer>
+
+<div class="copyright"> 
+  <small> &copy; <time datetime="{{ site.time | date_to_xmlschema }}">{{ page.date | date: '%Y' }}</time> {{site.author.name}}</small>
+</div>
+{% endif %}
 

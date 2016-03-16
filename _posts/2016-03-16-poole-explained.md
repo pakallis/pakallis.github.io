@@ -1,18 +1,19 @@
 ---
-layout: post
-title: Example content
+title: Feeling thankful to Poole  
 ---
 
+I was adamant about building this theme from scratch. I wanted to stay true to what Jekyll represents, and not accumulate unnecessary bloat. 
 
-<div class="message">
-  Howdy! This is an example blog post that shows several types of HTML content supported in this theme.
-</div>
+But, at the end, I decided to built this theme on top of [Poole](https://github.com/poole/poole), a vanilla Jekyll install built by [Mark Otto](https://twitter.com/mdo), the creator of Bootstrap. And I'm glad I did, as Poole provided a simple yet solid foundation for everything else I included and it was helpful trying to understand Otto's reasoning behind Poole's setup and using it as a role model for Utterson's. 
 
-Cum sociis natoque penatibus et magnis <a href="#">dis parturient montes</a>, nascetur ridiculus mus. *Aenean eu leo quam.* Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.
+Nonetheless, staying true to my goal, I picked it apart for anything I didn't find necessary. I found *almost* everything essential. Notably, I removed RSS feed --does anyone still use that anymore?-- and pagination -- it's a lingering headache. So I replaced these in favor of an email subscription and an archive page, respectively.
 
-> Curabitur blandit tempus porttitor. Nullam quis risus eget urna mollis ornare vel eu leo. Nullam id dolor id nibh ultricies vehicula ut id elit.
 
-Etiam porta **sem malesuada magna** mollis euismod. Cras mattis consectetur purus sit amet fermentum. Aenean lacinia bibendum nulla sed consectetur.
+Anyways, thanks to Otto for the solid foundation. If you're considering designing your on Jekyll blog, be sure check it out. Otherwise, save yourself the trouble and download [Utterson](http://utterson.alidcastano.com/).
+
+---
+
+On another note, here's some example content that came with Poole: 
 
 ## Inline HTML elements
 
@@ -80,7 +81,7 @@ Aenean lacinia bibendum nulla sed consectetur. Etiam porta sem malesuada magna m
 
 ### Lists
 
-Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Aenean lacinia bibendum nulla sed consectetur. Etiam porta sem malesuada magna mollis euismod. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.
+Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Aenean lacinia bibendum nulla sed consectetur. 
 
 * Praesent commodo cursus magna, vel scelerisque nisl consectetur et.
 * Donec id elit non mi porta gravida at eget metus.
@@ -156,7 +157,5 @@ Aenean lacinia bibendum nulla sed consectetur. Lorem ipsum dolor sit amet, conse
 Nullam id dolor id nibh ultricies vehicula ut id elit. Sed posuere consectetur est at lobortis. Nullam quis risus eget urna mollis ornare vel eu leo.
 
 -----
-
-Want to see something else added? <a href="https://github.com/poole/poole/issues/new">Open an issue.</a>
 
 [^fn-sample_footnote]: Handy! Now click the return link to go back.

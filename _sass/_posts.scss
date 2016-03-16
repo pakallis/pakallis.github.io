@@ -3,6 +3,7 @@
 // Each post is wrapped in `.post` and is used on default and post layouts. Each
 // page is wrapped in `.page` and is only used on the page layout.
 
+
 .page,
 .post {
   margin-bottom: 1rem;
@@ -23,7 +24,7 @@
 .page-title,
 .post-title {
   margin-top: 0;
-  margin-bottom: 2rem;
+  margin-bottom: 1rem;
 }
 
 // Meta data line below post 
@@ -37,11 +38,6 @@
   float: left;
 }
 
-.copyright {
-  float: right;
-  @extend .post-date;
-  font-style: normal;
-}
 
 .share-posts, .read-next {
   a:visited { color: $visited-link-color; }
@@ -68,7 +64,7 @@
 
 .read-next {
   padding-top: .5rem;
-  padding-bottom: 1rem;
+  padding-bottom: .5rem;
   font-size: .8rem;
 
   a { 

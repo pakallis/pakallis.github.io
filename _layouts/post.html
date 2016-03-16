@@ -7,10 +7,6 @@ layout: default
   {{ content }}
   <time datetime="{{ page.date | date_to_xmlschema }}" class="post-date">Posted on {{ page.date | date_to_string }}.</time>
 
-  <small class="copyright">
-  &copy; <time datetime="{{ site.time | date_to_xmlschema }}">{{ page.date | date: '%Y' }}</time> {{site.author.name}}
-  </small>
-
   {% include share-posts.html %}
 
   <div class="read-next"> Read Next: 
@@ -21,6 +17,5 @@ layout: default
     {% else %}
     {% endif %}
   </div>
-
 </article>
 

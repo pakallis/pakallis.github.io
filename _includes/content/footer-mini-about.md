@@ -1,6 +1,6 @@
 
 # The name's Utterson. 
 
-Pleasure to meet you.
+It's a pleasure to meet you. I'm a loyal friend of Jekyll. 
 
-Find me [here](www.google.com)
+I'd be delighted to get acquainted. Feel free to visit me [here](https://github.com/alidcastano/Utterson), whenever you like.

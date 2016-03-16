@@ -1,19 +1,9 @@
-## About Utterson 
+# About Utterson 
 
-Gabriel John Utterson is a lawyer and loyal friend of Jekyll's (and, soon enough, a loyal friend of yours, as well).
+*The Strange Case of Dr. Jekyll and Mr. Hyde* tells the story of a lawyer investigating the connection of two persons, Dr. Henry Jekyll and Mr. Edward Hyde. This lawyer is Mr. Gabriel John Utterson, a loyal friend of Jekyll's and Hyde's (and, soon enough, a loyal friend of yours, as well).
 
-His role is to advise and help Jekyll.
+Utterson is devoted to reason and common sense. He consistently seeks to preserve order and decorum, does not gossip, and guards his friends’ reputations as though they were his own. Because of this, the novel (and your personal blog) are viewed through his observant but unassuming perspective.
 
- Utterson is a measured, and at all times emotionless, bachelor – who nonetheless seems believable, trustworthy, tolerant of the faults of others, and indeed genuinely likeable.
-
-Responsiblity for his friends. 
-
-Utterson represents the perfect Victorian gentleman. He consistently seeks to preserve order and decorum, does not gossip, and guards his friends’ reputations as though they were his own. 
+Summoned by Poole, Utterson's role is advise and help Jekyll. It does so by furnishing a fully-functional yet minimal and flexible blog set up, focused on you and your content.
 
 
-He has his devotion to reason and common sense.
-
-
-Thus, even at the end, when he is summoned by Poole to Jekyll’s home and all the servants are gathered frightened in the hallway, Utterson continues to look for an explanation that preserves reason. He desperately searches for excuses not to take any drastic steps to interfere with Jekyll’s life. 
-
- He is perhaps the most circumspect, respected, and rational character in the book, and it is therefore significant that we view Hyde's crimes and Jekyll's hypocrisy through his observant, but generally sympathetic perspective.

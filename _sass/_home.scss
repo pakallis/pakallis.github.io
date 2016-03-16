@@ -10,6 +10,7 @@
   h1, p {
     max-width: 75%;
     float: left;
+    padding-right: .5rem;
   }
 
   h1 { 
@@ -25,10 +26,9 @@
   .avatar {
     float: right;
     max-width: 25%;
-    @include box-shadow(#fff, $fill-color);
+    border: 3px solid $img-border-color;
+    @include box-shadow(1px -1px 6px 1px $img-shadow-color);
     @include border-radius(15%);
-    padding-left: .5rem;
-
   }
 }
 
@@ -37,11 +37,11 @@
   display: block;
 
   .post {
-    margin-bottom: -1.5rem;
+    margin-bottom: -.75rem; //undo default post margin 
 
 
     a { 
-      color: #515151 !important;
+      color: $gray-5 !important;
       &:visited { color: $visited-link-color !important; }
     }
   }
@@ -53,5 +53,15 @@
   }
 }
 
+.featured-projects {
+  ul {
+    padding-left: 0;
+  }
+  
+  ul ul {
+    margin-top: -.4rem;
+      padding-left: 1rem;
+  }
+}
 
 

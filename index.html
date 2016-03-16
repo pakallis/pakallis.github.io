@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Home
+type: home 
 header: none 
 footer: none
 ---
@@ -9,8 +10,9 @@ footer: none
 
   <div class="mini-intro">
     <img class="avatar" src="{{site.author.profile-pic}}" alt="your-photo">
-
-    {% capture home-intro %}{% include content/home-intro.md %}{% endcapture %}
+    {% capture home-intro %}
+      {% include content/home-intro.md %}
+    {% endcapture %}
     {{ home-intro | markdownify }}
   </div>
 
@@ -18,14 +20,13 @@ footer: none
     <li class="tab-header-and-content">
       <a href="#" id="trigger-form" class="tab-aside-link is-active">Newsletter</a>
       <div class="tab-aside-content">
-      <!-- no tab content, filler div --> 
+      <!-- no tab content, filler div for initial borders --> 
       </div>
     </li>
 
     <li class="tab-header-and-content">
       <a href="#" class="tab-link">Blog</a>
-      <div class="tab-content">
-        <div class="featured-posts">
+      <div class="tab-content featured-posts">
           <h2> Newest Articles </h2>
           {% for post in site.posts limit: 5 %}
           <article class="post">
@@ -37,13 +38,16 @@ footer: none
           </article>
           {% endfor %}
           <a href="/archives" class="see-archives">See all articles</a>
-        </div>
       </div>
     </li>
 
     <li class="tab-header-and-content">
       <a href="#" class="tab-link">Projects</a>
-      <div class="tab-content"> 
+      <div class="tab-content featured-projects"> 
+        {% capture home-projects %}
+          {% include content/home-projects.md %}
+        {% endcapture %}
+        {{ home-projects | markdownify }}
       </div>
     </li>
 
@@ -62,9 +66,12 @@ footer: none
         {% include contact-form.html %}
       </div>
     </li>
-
   </ul>
 
 </div>
+
+
+
+
 
 

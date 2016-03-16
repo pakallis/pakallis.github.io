@@ -11,7 +11,7 @@ $(window).bind('scroll', function () {
 // so that when you reach footer appears and header/nav dissapears 
 $(window).on("load",function() {
   $(window).scroll(function() {
-    $(".fade").each(function() {
+    $(".fade-in").each(function() {
       /* Check the location of each desired element */
       var objectBottom = $(this).offset().top + $(this).outerHeight();
       var windowBottom = $(window).scrollTop() + $(window).innerHeight();
