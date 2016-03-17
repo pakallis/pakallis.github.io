@@ -4,9 +4,11 @@
 
 ---
 
-Utterson is a loyal companion for [Jekyll](http://jekyllrb.com), built on top of [Poole](https://github.com/poole/poole), a vanilla Jekyll install. It was designed and developed [@alidcastano](https://twitter.com/alidcastano) to provide a minimal and unassuming theme and get you up and writing with minimal effort. 
+Utterson is a loyal companion for [Jekyll](http://jekyllrb.com). It was designed and developed [@alidcastano](https://twitter.com/alidcastano) to provide a minimal and unassuming theme and get you up and writing with minimal effort. 
 
 # Main Features: 
 * **Home Page with accordion navigation**
+* **Fade-in footer** puts content first
+* **Scrolling Nav bar**
 * **Popup Newsletter subscription ** 
 * **Form-spree Contact Form** 
