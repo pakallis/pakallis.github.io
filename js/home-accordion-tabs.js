@@ -17,14 +17,7 @@ $(document).ready(function () {
       $(this).next().toggleClass('is-open').toggle(); 
       accordionTabs.find('.is-active').removeClass('is-active');
       $(this).addClass('is-active');
-    } 
-    // if clicked twice reset - that is, remove active class and give to first element 
-    else if ($(this).hasClass('is-active')) {
-      e.preventDefault();
-      window.location.reload(true); 
-    
-    }
-    else {
+    } else {
       e.preventDefault();
     }
   });

@@ -28,8 +28,9 @@
     border-top: $tab-border;
     border-bottom: $tab-border;
     color: $tab-link-color;
-    width: 18%;
-    @include bp-medium { width: 16%; }
+    width: 16%;
+    font-size: .9rem;
+    @include bp-small { font-size: 1rem; }
     text-align: center;
     display: block;
     padding-top: .5rem;
@@ -74,7 +75,8 @@
   .tab-aside-link {
     position: absolute;
     top: 15%; 
-    left: 79%; 
+    left: 75%; 
+    @include bp-small { left: 79%;  }
     @include dim-effect(.6, 1);
     padding: .125rem .5rem;
     margin-bottom: .125rem;
