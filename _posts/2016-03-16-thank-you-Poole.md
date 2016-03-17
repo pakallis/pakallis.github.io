@@ -1,15 +1,20 @@
 ---
-title: Feeling thankful to Poole  
+title: Feeling thankful for Poole  
 ---
 
-I was adamant about building this theme from scratch. I wanted to stay true to what Jekyll represents, and not accumulate unnecessary bloat. 
+I was adamant about building this theme from scratch. I wanted to stay true to what Jekyll represents and not accumulate any unnecessary bloat of bootstrapped sites.
 
-But, at the end, I decided to built this theme on top of [Poole](https://github.com/poole/poole), a vanilla Jekyll install built by [Mark Otto](https://twitter.com/mdo), the creator of Bootstrap. And I'm glad I did, as Poole provided a simple yet solid foundation for everything else I included and it was helpful trying to understand Otto's reasoning behind Poole's setup and using it as a role model for Utterson's. 
+But, at the end, I decided to build this theme on top of [Poole](https://github.com/poole/poole), a vanilla Jekyll install built by [Mark Otto](https://twitter.com/mdo), who coincidently is also the creator of Bootstrap. 
 
-Nonetheless, staying true to my goal, I picked it apart for anything I didn't find necessary. I found *almost* everything essential. Notably, I removed RSS feed --does anyone still use that anymore?-- and pagination -- it's a lingering headache. So I replaced these in favor of an email subscription and an archive page, respectively.
+And I'm glad I did, as Poole provided a simple yet solid foundation. I tried to leverage Otto's reasoning behind Poole's setup, using his decisions as a role model for Utterson's. 
 
+Nonetheless, staying true to my goal, I picked it apart for anything I didn't find necessary. I found *almost* everything essential. Notably, I removed RSS feed --does anyone still use that anymore?-- and pagination -- it's a lingering headache. So I replaced these in favor of an email subscription and an archive page, respectively. 
 
-Anyways, thanks to Otto for the solid foundation. If you're considering designing your on Jekyll blog, be sure check it out. Otherwise, save yourself the trouble and download [Utterson](http://utterson.alidcastano.com/).
+Besides that, I disliked seeing post dates included everywhere, as good content does not expire. So  I removed all post dates, except for the ones at the the bottom of each post.
+
+In terms of nomenclature, I'm a fan of Otto's Dr. Jekyll and Hyde themed naming scheme, and was delighted to see the character [Gabriel Utterson](http://www.sparknotes.com/lit/jekyll/characters.html), who is a loyal friend of Jekyll's, was not taken. 
+
+All in all, thanks to Otto for the solid foundation. If you're considering designing your on Jekyll blog, be sure check [Poole](https://github.com/poole/poole) out. Otherwise, save yourself the trouble and download [Utterson](http://utterson.alidcastano.com/). (:
 
 ---
 

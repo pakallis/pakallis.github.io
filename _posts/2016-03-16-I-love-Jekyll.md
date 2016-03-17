@@ -1,5 +1,5 @@
 ---
-title: Why I love you, Jekyll
+title: Why I love Jekyll
 ---
 
 I used WordPress for two years. I never liked it. I just couldn't pick out why and everyone used it, so I stuck with it.

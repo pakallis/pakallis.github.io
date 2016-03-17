@@ -12,7 +12,7 @@ Utterson provides a fully-functional setup, of what I believe to be fundamental 
 
 Also, building off Poole's vanilla install:
 
-* **A holistic Jekyll setup** (layouts, config, [404]({{ site.baseurl }}/404.html), posts, and [example page]({{ site.baseurl }}/about) 
+* **A holistic Jekyll setup** (layouts, config, [404]({{ site.baseurl }}/404.html), home page navigation, and posts.
 * **Easily scalable** text and component sizing with `rem` units in the CSS.
 * **Mobile Friendly Design** - so your site can be accessed on any device.
 
