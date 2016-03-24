@@ -23,6 +23,9 @@
     }
   }
 
+  p {
+     a { color: $base-link-color !important; }
+  }
   
   .avatar {
     float: right;

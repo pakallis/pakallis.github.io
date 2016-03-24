@@ -30,8 +30,8 @@ Three simple steps:
 
 Optionally: 
 
-* You can change default variables in <code>_sass/variables</code> (for example, if you want to change the colors for navigation links). 
-* If you don't have to use Formspree for your subscription form, you can change that in <code>_includes/email-form.html</code>.
+* You can change default variables in <code>_sass/variables</code> (i.e. if to change nav link colors). 
+* If you don't want to use Formspree for your subscription form, you can change that in <code>_includes/email-form.html</code>.
 
 ---
 
