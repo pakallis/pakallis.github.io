@@ -25,17 +25,19 @@ Also, building off Poole's vanilla install:
 Make it yours in under 20 minutes. 
 
 Three simple sets:
-    1. Edit the _config.yml and put your own information. 
-    2. Edit the markdown files in _includes/content and talk about yourself. 
-    3. Replace the images in /img directory with your own.
+
+1. Edit the _config.yml and put your own information. 
+2. Edit the markdown files in _includes/content and talk about yourself. 
+3. Replace the images in /img directory with your own.
 
 Optionally: 
-    * You can change default variables in _sass/variables (for example, if you want to change the colors for navigation links). 
-    * If you don't have to use Formspree for your subscription form, you can change that in _includes/email-form.html.
+
+* You can change default variables in _sass/variables (for example, if you want to change the colors for navigation links). 
+* If you don't have to use Formspree for your subscription form, you can change that in _includes/email-form.html.
 
 ---
 
-# TO DO
+# Things I need to do 
 
 - Add Social Media Icons 
 - Add footnote on hover 
