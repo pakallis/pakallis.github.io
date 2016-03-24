@@ -11,6 +11,7 @@ Utterson was built on top of [Jekyll](http://jekyllrb.com), a static site genera
 <a href="http://utterson.alidcastano.com/">
 <img src="https://cloud.githubusercontent.com/assets/11031952/14027042/22c27794-f1cc-11e5-8a25-9bab1e7920f2.png" atl="home page">
 </a>
+*A minimal home page.*
 
 ## Features: 
 
@@ -28,10 +29,10 @@ Also, building off Poole's vanilla install:
 * **Easily scalable** text and component sizing with `rem` units in the CSS.
 * **Mobile Friendly Design** so that your site can be accessed on any device.
 
-<a href="http://utterson.alidcastano.com/I-love-Jekyll">
+<a href="http://utterson.alidcastano.com/I-love-Jekyllg">
 <img src="https://cloud.githubusercontent.com/assets/11031952/14027371/b26c503a-f1cd-11e5-9a44-6b8edc8e41cb.png"  atl="posts page">
 </a>
-
+*Content focused pages, with a sliding email subscription form.*
 
 ## Getting Started 
 
