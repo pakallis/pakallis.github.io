@@ -2,20 +2,12 @@
 title: Why I love Jekyll
 ---
 
-I used WordPress for two years. I never liked it. I just couldn't pick out why and everyone used it, so I stuck with it.
+The Co-founder of Github, [Tom Preston-Werner](https://github.com/mojombo), created [Jekyll](http://jekyllrb.com) back in 2008. His motivation was to do away with the complexity of other blogging platforms. He wanted to create  work flow that would allow him to, as he put it, [blog like a hacker](http://tom.preston-werner.com/2008/11/17/blogging-like-a-hacker.html).
 
-That is, until I discovered [Jekyll](http://jekyllrb.com), a static site generator. 
+What does it mean to blog like a hacker? It means that you don't have to use WordPress, or any other complex blogging platform built for masses. You don't have to deal with CMS, WYSIWYG editors, or PHP plug-ins. Just your favorite text editor and a few git commands. By eliminating layers of unnecessary complexity, Jekyll brings you closer to your writing.
 
-Suddenly, I felt as if everything that was WordPress was staring at me in the face. It's bloated CMS, WYSIWYG editors, PHP plug-ins. Never again!
+It was with a similar purpose that I created this theme: to create a minimal yet unique theme that focused on you and you're writing, above all. I hope you find it useful. 
 
+---
 
-The Co-founder of Github, [Tom Preston-Werner](https://github.com/mojombo), created Jekyll back in 2008 to do away with the complexity of other blogging platforms. He sought to create  work flow that would allow him to, as he put it, [blog like a hacker](http://tom.preston-werner.com/2008/11/17/blogging-like-a-hacker.html).
-
-
-Now, it has become one of my favorite reasons for learning to how to code. One, so that I can call myself a hacker and, two, so that I can blog like one. 
-
-And you can, too.
-
-It was with a similar purpose that I created this theme for the both of us. To eliminate the unnecessary complexity of typical blog designs and create a minimal yet unique theme that focused on content and user experience, above all.
-
-I hope you find it useful. Share your thoughts with me at [@alidcastano](https://twitter.com/alidcastano) or [contribute on GitHub](http://utterson.alidcastano.com/).
+Share your thoughts with me at [@alidcastano](https://twitter.com/alidcastano) or [contribute on GitHub](http://utterson.alidcastano.com/).

@@ -1,13 +1,13 @@
 # Setup
 title:               Utterson
 tagline:             The Jekyll Companion
-url:                 http://alidcastano.com
-analytics_id:        ""
+url:                 http://utterson.alidcastano.com
+analytics_id:        UA-53335201-2
 
 # About/contact
 author:
   name:                Alid Castano
-  email:               alidcastano@gmail.com
+  email:               "" # email here 
   avatar:              img/avatar.jpg 
   profile-pic:         img/profile-pic.jpg
 
@@ -29,7 +29,7 @@ defaults:
       type: "posts" 
     values:
       layout: "post"
-      author: Alid Castano
+      author: Gabriel Utterson
   -
     scope:
       path: "" 
