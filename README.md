@@ -20,24 +20,22 @@ Also, building off Poole's vanilla install:
 * **Easily scalable** text and component sizing with `rem` units in the CSS.
 * **Mobile Friendly Design** so that your site can be accessed on any device.
 
-### Getting Started: 
+### Make it yours in under 20 minutes. 
 
-Make it yours in under 20 minutes. 
+Three simple steps:
 
-Three simple sets:
-
-1. Edit the _config.yml and put your own information. 
-2. Edit the markdown files in _includes/content and talk about yourself. 
-3. Replace the images in /img directory with your own.
+1. Edit the <code>_config.yml</code> and put your own information. 
+2. Edit the markdown files in <code>_includes/content</code> and talk about yourself. 
+3. Replace the images in <code>/img</code> directory with your own.
 
 Optionally: 
 
-* You can change default variables in _sass/variables (for example, if you want to change the colors for navigation links). 
-* If you don't have to use Formspree for your subscription form, you can change that in _includes/email-form.html.
+* You can change default variables in <code>_sass/variables</code> (for example, if you want to change the colors for navigation links). 
+* If you don't have to use Formspree for your subscription form, you can change that in <code>_includes/email-form.html</code>.
 
 ---
 
-# Things I need to do 
+# Next Steps...
 
 - Add Social Media Icons 
 - Add footnote on hover 
@@ -45,4 +43,5 @@ Optionally:
 ---
 
 ### License 
-[MIT license](LICENSE.md)
+Open sourced under the[MIT license](LICENSE.md).
+

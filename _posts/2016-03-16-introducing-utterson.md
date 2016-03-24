@@ -20,6 +20,8 @@ Also, building off Poole's vanilla install:
 
 ### Learn more and contribute on [GitHub](http://utterson.alidcastano.com/).
 
+<code>_config.yml<code>
+
 ---
 
 If you'd like to see the theme in action, you can see it live on my [site](http://alidcastano.com/).
