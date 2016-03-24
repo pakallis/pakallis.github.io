@@ -6,11 +6,10 @@
 
 Utterson was built on top of [Jekyll](http://jekyllrb.com), a static site generator, and  [Poole](https://github.com/poole/poole), a vanilla Jekyll install. It was designed and developed by [@alidcastano](https://twitter.com/alidcastano), to provide a minimal and unassuming theme, focused on what matters: you and your content.
 
-![placeholder](https://cloud.githubusercontent.com/assets/11031952/14027042/22c27794-f1cc-11e5-8a25-9bab1e7920f2.png)
+[See the theme in action](http://utterson.alidcastano.com/).
 
-![placeholder](https://cloud.githubusercontent.com/assets/11031952/14027041/22c1344c-f1cc-11e5-8505-dfe032c6bddc.png)
+<img src="https://cloud.githubusercontent.com/assets/11031952/14027042/22c27794-f1cc-11e5-8a25-9bab1e7920f2.png" atl="home page">
 
-See the theme [live](http://utterson.alidcastano.com/).
 
 ## Features: 
 
@@ -27,6 +26,10 @@ Also, building off Poole's vanilla install:
 * **A holistic Jekyll setup** (Layouts, config, [archive page](/archive), [404]({{ site.baseurl }}/404.html), example pages and posts.)
 * **Easily scalable** text and component sizing with `rem` units in the CSS.
 * **Mobile Friendly Design** so that your site can be accessed on any device.
+
+
+<img src="https://cloud.githubusercontent.com/assets/11031952/14027371/b26c503a-f1cd-11e5-9a44-6b8edc8e41cb.png"  atl="posts page">
+
 
 ## Getting Started 
 
@@ -45,7 +48,7 @@ Optionally:
 
 ---
 
-# Next Steps... (feel free )
+## Next Steps... 
 
 - Add Social Media Icons 
 - Add hover feature for footnotes 
