@@ -29,7 +29,7 @@ Also, building off Poole's vanilla install:
 * **Easily scalable** text and component sizing with `rem` units in the CSS.
 * **Mobile Friendly Design** so that your site can be accessed on any device.
 
-<a href="http://utterson.alidcastano.com/I-love-Jekyllg">
+<a href="http://utterson.alidcastano.com/I-love-Jekyll">
 <img src="https://cloud.githubusercontent.com/assets/11031952/14027371/b26c503a-f1cd-11e5-9a44-6b8edc8e41cb.png"  atl="posts page">
 </a>
 *Content focused pages, with a sliding email subscription form.*
