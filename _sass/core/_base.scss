@@ -20,7 +20,8 @@ html {
   line-height: $root-line-height;
 
   @include bp-large {
-    font-size: $large-font-size;
+    color: blue;
+    font-size: $large-font-size !important;
   }
 }
 
