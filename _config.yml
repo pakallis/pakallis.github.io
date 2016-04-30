@@ -1,12 +1,12 @@
 # Setup
-title:               Utterson
-tagline:             The Jekyll Companion
-url:                 http://utterson.alidcastano.com
-analytics_id:        UA-53335201-2
+title:               Pavlos Kallis
+tagline:             Software engineer
+url:                 http://pakallis.github.io
+analytics_id:        UA-56553414-1
 
 # About/contact
 author:
-  name:                Alid Castano
+  name:                Pavlos Kallis
   email:               "" # email here 
   avatar:              img/avatar.jpg 
   profile-pic:         img/profile-pic.jpg
@@ -29,7 +29,7 @@ defaults:
       type: "posts" 
     values:
       layout: "post"
-      author: Gabriel Utterson
+      author: Pavlos Kallis
   -
     scope:
       path: "" 
