@@ -1,5 +1,5 @@
 
-# [Pavlos Kallis, Ruby on Rails developer](/)
+# [Ruby on Rails developer](/)
 
 This is the personal website of Pavlos Kallis aka @pakallis. Coming soon...
 
