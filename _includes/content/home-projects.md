@@ -5,5 +5,5 @@
     * I'm on a quest to investigate the identity of Hyde, as I fear that he is blackmailing Jekyll. 
 
 
-* ### [(Another Sample Project)](http://utterson.alidcastano.com/)
+* ### [(Another Sample Project)](http://pakallis.github.io/)
     * Just working on changing the world, no big deal.

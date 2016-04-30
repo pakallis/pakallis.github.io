@@ -1,8 +1,6 @@
 
-# [Introducing Utterson](/)
+# [Coming soon...](/)
 
-Utterson is Jekyll's loyal companion. Built on top of Poole, it's an unassuming, trustworthy theme built to get you up and writing with minimal effort. 
+This is the personal website of Pavlos Kallis aka @pakallis. Coming soon...
 
-First time? [Start here](http://utterson.alidcastano.com/introducing-utterson). 
-
-
+First time? [Start here](http://pakallis.github.io/introducing-utterson). 
