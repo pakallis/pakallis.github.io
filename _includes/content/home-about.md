@@ -2,7 +2,7 @@
 
 I am a software engineer with 3 years of experience building web applications.
 I held a diploma in computer engineering from the University of Thessaly. 
-I love working at a startup environment. 
+I love working in a startup environment. 
 I worked at [incrediblue](http://www.incrediblue.com) and i am a co-founder at [testributor](http://www.testributor.com).
 
 During my journey as a software engineer, i have used the following technologies :
