@@ -1,6 +1,5 @@
 
 # [Ruby on Rails developer](/)
 
-This is the personal website of Pavlos Kallis aka @pakallis. Coming soon...
-
-First time? [Start here](http://pakallis.github.io/utterson). 
+This is the personal website of Pavlos Kallis aka @pakallis. 
+Check the "About" section for more info.
