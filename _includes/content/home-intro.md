@@ -1,5 +1,4 @@
 
-# [Ruby on Rails developer](/)
+# [Pavlos Kallis](/)
 
-This is the personal website of Pavlos Kallis aka @pakallis. 
-Check the "About" section for more info.
+Senior software engineer with more than 6 years of professional experience.

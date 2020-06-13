@@ -1,15 +1,7 @@
 # About Pavlos Kallis
 
-I am a software engineer with 3 years of experience building web applications.
-I held a diploma in computer engineering from the University of Thessaly. 
-I love working in a startup environment. 
-I worked at [incrediblue](http://www.incrediblue.com) and i am a co-founder at [testributor](http://www.testributor.com).
+I am a software engineer with more than 6 years of professional experience. 
+Currently leading the predictive analytics and machine learning team at [centaur](http://www.centaur.ag).
+During my journey as a software engineer / founder i co-founded [testributor](http://www.testributor.com) and worked at [incrediblue](http://www.incrediblue.com).
 
-During my journey as a software engineer, i have used the following technologies :
-
-<code>Ruby | Ruby on Rails | PostgreSQL | docker | javascript | HTML</code>
-<code>CSS | react | python | node.js</code>
-
-I am an open-source contributor to the [split gem](https://github.com/splitrb/split).
-My favorite text editor is vim. Explore my [vimrc](https://github.com/pakallis/dotfiles/blob/master/vimrc).
-My software interests include code refactoring and design patterns. Apart from that, i am interested in machine learning algorithms and "Internet of things" devices.
+I am a creator of the [pdmongo](http://github.com/pakallis/python-pandas-mongo) package and contributor to various open-source projects. 
