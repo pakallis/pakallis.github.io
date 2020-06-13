@@ -17,6 +17,26 @@ footer: none
   </div>
 
   <ul class="accordion-tabs">
+
+    <li class="tab-header-and-content">
+      <a href="#" class="tab-link">About</a>
+      <div class="tab-content">
+        {% capture home-about %}{% include content/home-about.md %}{% endcapture %}
+        {{ home-about | markdownify }}
+      </div>
+    </li>
+
+
+    <li class="tab-header-and-content">
+      <a href="#" class="tab-link">Portfolio</a>
+      <div class="tab-content featured-projects"> 
+        {% capture home-projects %}
+          {% include content/home-projects.md %}
+        {% endcapture %}
+        {{ home-projects | markdownify }}
+      </div>
+    </li>
+
     <li class="tab-header-and-content">
       <a href="#" class="tab-link">Blog</a>
       <div class="tab-content featured-posts">
@@ -33,25 +53,6 @@ footer: none
           <a href="/archives" class="see-archives">See all articles</a>
       </div>
     </li>
-
-    <li class="tab-header-and-content">
-      <a href="#" class="tab-link">Portfolio</a>
-      <div class="tab-content featured-projects"> 
-        {% capture home-projects %}
-          {% include content/home-projects.md %}
-        {% endcapture %}
-        {{ home-projects | markdownify }}
-      </div>
-    </li>
-
-    <li class="tab-header-and-content">
-      <a href="#" class="tab-link">About</a>
-      <div class="tab-content">
-        {% capture home-about %}{% include content/home-about.md %}{% endcapture %}
-        {{ home-about | markdownify }}
-      </div>
-    </li>
-
 
     <li class="tab-header-and-content">
       <a href="#" class="tab-link">Contact</a>
