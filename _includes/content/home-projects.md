@@ -1,7 +1,4 @@
 
-# Here's what I've been working so far
-
-
 ## Commercial Products 
 
 * ### [Centaur](http://www.centaur.ag)
