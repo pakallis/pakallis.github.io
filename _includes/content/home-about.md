@@ -5,3 +5,5 @@ Currently leading the predictive analytics and machine learning team at [centaur
 During my journey as a software engineer / founder i co-founded [testributor](http://www.testributor.com) and worked at [incrediblue](http://www.incrediblue.com).
 
 I am a creator of the [pdmongo](http://github.com/pakallis/python-pandas-mongo) package and contributor to various open-source projects. 
+
+Lately, i've been involved in machine learning and i am really intrigued by it's implications.
