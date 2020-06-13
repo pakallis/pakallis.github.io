@@ -7,7 +7,7 @@
 * ### [Centaur](http://www.centaur.ag)
 [Centaur](http://www.centaur.ag) aims to enhance post-harvest grain quality by providing novel IoT and machine learning solutions.
 
-I am currently leading a team of 3 and held responsible for many aspects of the product, 
+I am currently leading a team of three and held responsible for many aspects of the cloud product,
 directly reporting to the CEO.
 
 By and large, my role involves active feature development, research and model development, product maintenance, quality assurance and overall system reliability.
