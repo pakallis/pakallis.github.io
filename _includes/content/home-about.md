@@ -5,4 +5,4 @@ currently driving technical decisions for the predictive analytics and machine l
 
 During my journey as a software engineer / co-founder i co-founded [testributor](http://www.testributor.com) and worked at [incrediblue](http://www.incrediblue.com).
 I am a creator of the [pdmongo](http://github.com/pakallis/python-pandas-mongo) package and contributor to various open-source projects. 
-Lately, i've been involved in machine learning and i am really intrigued by it's implications in real life.
+Lately, i've been involved in machine learning and i am really intrigued by its implications in real life.
